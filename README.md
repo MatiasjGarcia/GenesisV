@@ -1,21 +1,16 @@
-    <header class="fondo">
-        <div class="V">
-        <img src="./assets/img/16a13e81-ed8b-494a-81c5-3383357787dc.jpg" class="img-fluid" alt="">
-    </div>
-    
-        <ul class="nav">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="pages" href="./membresia.html">Membresia</noscript></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./vshop.html">V-Shop</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/sucursales.html">Sucursales</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./futbol.html">Fútbol</a>
-            </li>
-          </ul>
-        
-    </header>
+### Hola 👋, Bienvenidos.
+#### Mi nombre es Matias Garcia {24 años}
+Soy estudiante en la Carrera de Desarrollo Frontend React, de Coderhouse.
+
+Habilidades: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 Estoy trabajando en this page. 
+- 🌱 Estoy aprendiendo Desarrollo web, JavaScript, React js 
+- 👯 Quiero colaborar con Empresas 
+- 📫 Cómo contactarme: Cel: 1150218347 Email: MatiasjGarcia@Outlook.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MatiasjGarcia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/matygarcia10//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
